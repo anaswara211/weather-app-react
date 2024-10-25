@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+.app{
+  min-height: 100vh;
+  display: grid;
+  background-color:rgba(59, 101, 114, 0.747);
+}
